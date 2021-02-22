@@ -1,9 +1,6 @@
 # 😈 Developer Village, DEVIL 👩‍💻
 >개발자 커뮤니티 웹 사이트
 
-:pushpin: [발표 PPT](https://docs.google.com/presentation/d/1YRAt4UJY--kdYYx2JAo1ukq3rW8kx6nlbPc2kJ8exfU/edit#slide=id.ga6864e8c28_3_0)
-<br>
-
 ## 2. 사용 기술
   - Java 11
   - Spring MVC 5.3.2
@@ -55,5 +52,3 @@ Figma를 사용하여 UI 프로토타입을 만들었습니다. [바로가기](h
 - [알림 목록 요청을 비동기 요청으로 전환](https://hayeon17kim.github.io/posts/devil-65/)
 
 <br>
-
-## 7. 회고 / 느낀점
